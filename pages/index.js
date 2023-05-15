@@ -3,7 +3,7 @@ export default function Example({search}) {
   return (
     <div>
     <header>
-      <title>qOverflow</title>
+      <title>q_flow</title>
     </header>
       <HomePage search={search}/>
     </div>

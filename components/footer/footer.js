@@ -57,7 +57,7 @@ const Footer = () => {
                 <ul className="text-gray-600 dark:text-gray-400 font-medium">
                   <li className="mb-4">
                     <Link
-                      href="https://github.com/yeasirar"
+                      href="https://github.com/greatrifat"
                       className="hover:underline "
                     >
                       Github
@@ -103,7 +103,7 @@ const Footer = () => {
             </span>
             <div className="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
               <Link
-                href="https://facebook.com/yeasir.offical"
+                href="https://facebook.com/greatrifat"
                 className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
               >
                 <svg
@@ -121,7 +121,7 @@ const Footer = () => {
                 <span className="sr-only">Facebook page</span>
               </Link>
               <Link
-                href="#"
+                href="https://facebook.com/greatrifat"
                 className="text-gray-500 hover:text-gray-900 dark:hover:text-white"
               >
                 <svg
